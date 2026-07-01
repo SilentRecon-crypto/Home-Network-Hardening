@@ -1,5 +1,5 @@
-# Nmap 7.98 scan initiated Mon Jun 29 06:45:34 2026 as: /usr/lib/nmap/nmap -A -oN nnmap-router.txt 192.168.29.1
-Nmap scan report for reliance.reliance (192.168.29.1)
+# Nmap 7.98 scan initiated Mon Jun 29 06:45:34 2026 as: /usr/lib/nmap/nmap -A -oN nnmap-router.txt 192.168.XX.1
+Nmap scan report for reliance.reliance (192.168.XX.1)
 Host is up (0.020s latency).
 Not shown: 990 filtered tcp ports (no-response)
 PORT     STATE  SERVICE             VERSION
